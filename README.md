@@ -7,7 +7,7 @@ Producer & Narrative Designer: Leticia Maimann-Roland
 
 Game Design Lead, Art Director & Narrative Designer: Adam Giebl [<img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" style="vertical-align: middle; height: 1em;">](https://github.com/adamgiebl)
 
-UX Design Lead & Sound Designer: Alessandro Giandomenico Albarello
+UX Design Lead & Sound Designer: Alessandro Giandomenico Albarello [<img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" style="vertical-align: middle; height: 1em;">](https://github.com/potatolord52)
 
 Tech Lead: Marco Selleri
 
