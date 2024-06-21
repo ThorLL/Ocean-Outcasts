@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00eaeb0384374af2bbff7dc8221b1c48, type: 3}
+  m_Name: DoomAngler
+  m_EditorClassIdentifier: 
+  monsterName: Doom Angler
+  health: 12
+  monsterDamage: 14
+  sprite: {fileID: 21300000, guid: 9dfdb102d8f505c46803a0a2376d730c, type: 3}
+  desc: A terrifying fish with a skull-like head and a luminescent lure. It emits
+    a powerful, disorienting light, and its massive jaws can cause severe damage
+    to the submarine's structure.

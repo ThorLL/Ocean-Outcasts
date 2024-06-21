@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83ab06a15264690bc03b081f919649f, type: 3}
+  m_Name: OverdueHealing
+  m_EditorClassIdentifier: 
+  title: Overdue Healing
+  description: Time heals all wounds, they say. It seems to be true for {name}who
+    finally feels their scrapes and bruises healing
+  initialSetup: 1
+  textEventChoiceType: 0
+  textEventInfluenceType: 0
+  effects:
+  - text: '{name} gained {amount}% health'
+    affectedResource: 3
+    minValue: 1
+    maxValue: 25
+  choices: []

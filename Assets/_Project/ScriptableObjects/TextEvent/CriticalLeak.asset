@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83ab06a15264690bc03b081f919649f, type: 3}
+  m_Name: CriticalLeak
+  m_EditorClassIdentifier: 
+  title: Critical Leak
+  description: 'An alarming warning blares through the sub: two compartments are
+    rapidly taking on water! You must quickly decide which leak to address first.'
+  initialSetup: 0
+  textEventChoiceType: 1
+  textEventInfluenceType: 1
+  effects: []
+  choices:
+  - text: Prioritize Engine Room
+    textEventTriggered: {fileID: 11400000, guid: 6a8170a8055abc446849ad631c644ace, type: 2}
+  - text: Secure Oxygen Room
+    textEventTriggered: {fileID: 11400000, guid: eed87a030048a5541b6d226a042f45b6, type: 2}

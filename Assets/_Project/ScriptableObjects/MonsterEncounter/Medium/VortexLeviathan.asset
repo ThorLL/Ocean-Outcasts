@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00eaeb0384374af2bbff7dc8221b1c48, type: 3}
+  m_Name: VortexLeviathan
+  m_EditorClassIdentifier: 
+  monsterName: Vortex Leviathan
+  health: 15
+  monsterDamage: 20
+  sprite: {fileID: 21300000, guid: cf8e9e38e61f78745b4eb5f2bb385603, type: 3}
+  desc: This massive creature creates strong underwater currents and vortices. It
+    can engulf the submarine, spinning it uncontrollably and causing havoc to internal
+    systems.

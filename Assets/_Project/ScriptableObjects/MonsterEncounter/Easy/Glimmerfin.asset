@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00eaeb0384374af2bbff7dc8221b1c48, type: 3}
+  m_Name: Glimmerfin
+  m_EditorClassIdentifier: 
+  monsterName: Glimmerfin
+  health: 5
+  monsterDamage: 6
+  sprite: {fileID: 21300000, guid: 07f58b656b76c084cbba522b2dd09b2b, type: 3}
+  desc: A small, bioluminescent fish with shimmering scales. It moves in large schools,
+    creating dazzling patterns in the dark ocean. While not very dangerous alone,
+    in groups, they can swarm and lightly batter the submarine's exterior.

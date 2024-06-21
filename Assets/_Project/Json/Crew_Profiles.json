@@ -1,0 +1,107 @@
+{
+  "Names": ["Lambert", "Kiki", "Sully", "mp7892", "Randalf", "Hectorienne", "Bourmayer", "Kurt", "Ambrose", "Stolton"],
+  "Sprites": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24"],
+  "SkillsWithBio":
+  [
+    {
+      "Skills":
+      {
+        "Navigation": 1,
+        "Engineer": 5,
+        "Medic": 1,
+        "Weapons": 2
+      },
+      "Bio": "Brilliant heister and tinkerer. Caught in a recent job due to bad contingency planning."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 1,
+        "Engineer": 2,
+        "Medic": 3,
+        "Weapons": 3
+      },
+      "Bio": "A charismatic automaton with a corrupted directive. Went on a killing spree and was stopped."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 5,
+        "Engineer": 1,
+        "Medic": 1,
+        "Weapons": 2
+      },
+      "Bio": "Eccentric pirate of the Outer Reef. Their rising ambitions got them betrayed by their crew."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 2,
+        "Engineer": 1,
+        "Medic": 5,
+        "Weapons": 1
+      },
+      "Bio": "A nefarious cyborg leading gruesome experiments. Was caught along with their boss."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 1,
+        "Engineer": 3,
+        "Medic": 1,
+        "Weapons": 4
+      },
+      "Bio": "An eel farmer turned illegal weapons manufacturer. Was caught by an infiltrator."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 4,
+        "Engineer": 3,
+        "Medic": 1,
+        "Weapons": 1
+      },
+      "Bio": "Explorer and scientist with no sense of ethics. Caught scouring secret royal laboratories."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 3,
+        "Engineer": 3,
+        "Medic": 1,
+        "Weapons": 2
+      },
+      "Bio": "Part of a sect, they blew up industrial lines. They were traced by forensics and arrested."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 1,
+        "Engineer": 1,
+        "Medic": 4,
+        "Weapons": 3
+      },
+      "Bio": "Violent psychopath from the Brassport District. Local enforcement neutralized them."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 2,
+        "Engineer": 1,
+        "Medic": 4,
+        "Weapons": 2
+      },
+      "Bio": "Opera singer by day, drug trade overseer by night. They were double-crossed by trade partners."
+    },
+    {
+      "Skills":
+      {
+        "Navigation": 3,
+        "Engineer": 3,
+        "Medic": 2,
+        "Weapons": 1
+      },
+      "Bio": "A diver who claims to have seen monstrosities in the depths. Jailed for fear-mongering."
+    }
+  ]
+}

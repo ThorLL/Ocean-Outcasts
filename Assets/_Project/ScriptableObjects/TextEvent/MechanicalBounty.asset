@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83ab06a15264690bc03b081f919649f, type: 3}
+  m_Name: MechanicalBounty
+  m_EditorClassIdentifier: 
+  title: Mechanical Bounty
+  description: Amidst the ocean ruins, a biomechanical construct holds promise of
+    both weapons and engine parts
+  textEventChoiceType: 1
+  textEventInfluenceType: 0
+  effects: []
+  choices:
+  - text: Salvage for weapon parts
+    textEventTriggered: {fileID: 11400000, guid: ba56ad4373144da42a5b1f38baabb792, type: 2}
+  - text: Search for engine materials
+    textEventTriggered: {fileID: 11400000, guid: cbc0c79ac61a58d48a696c7028a598fe, type: 2}

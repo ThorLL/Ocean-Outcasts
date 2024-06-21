@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00eaeb0384374af2bbff7dc8221b1c48, type: 3}
+  m_Name: ShadowfinPredator
+  m_EditorClassIdentifier: 
+  monsterName: Shadowfin Predator
+  health: 14
+  monsterDamage: 16
+  sprite: {fileID: 21300000, guid: c92d491657fe66f4e9dcadebfb1389c0, type: 3}
+  desc: Resembling a sleek, large shark, the Shadowfin Predator is known for its
+    deep black scales and lightning-fast movements. It attacks with a sudden burst
+    of speed, using its razor-sharp teeth to inflict serious damage on the submarine's
+    hull.
